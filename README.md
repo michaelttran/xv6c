@@ -1,6 +1,6 @@
 xv6C
 
-Authors Noah King, Michael Tran
+Authors Noah King(Github: @ShayRomayo), Michael Tran
 
 Containers implemented in xv6 using a table of a new struct container that holds all information to
 isolate a filesystem and process namespace as well as enforcing limits to memory disk space and processes.
